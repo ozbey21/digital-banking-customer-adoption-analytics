@@ -312,29 +312,6 @@ Dashboard file:
 ```text
 dashboard/digital_banking_excel_dashboard_2021_2025.xlsx
 ```
-
-Dashboard screenshots are available in:
-
-```text
-dashboard/screenshots/
-```
-
-### Dashboard Preview
-
-> Add screenshots after exporting from Excel.
-
-```md
-![Executive Overview](dashboard/screenshots/executive_overview.png)
-
-![Sector Trend](dashboard/screenshots/sector_trend.png)
-
-![Bank Benchmark](dashboard/screenshots/bank_benchmark.png)
-
-![Branch Efficiency](dashboard/screenshots/branch_efficiency.png)
-
-![Strategic Insights](dashboard/screenshots/strategic_insights.png)
-```
-
 ---
 
 ## 14. SQL Layer
